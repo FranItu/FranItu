@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranItu
 - 👀 I’m interested in Worldbuilding
-- 🌱 I’m currently learning computational topology
+- 🌱 Computational Topology & Computational Stochastic Models
 - 💞️ I’m looking to collaborate on Graph Optimization
 - 📫 How to reach me Telegram me @Argos39
 
